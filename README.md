@@ -1,2 +1,2 @@
 # Hello-world
-The first game of it!
+We got a new game here!
